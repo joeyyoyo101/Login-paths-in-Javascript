@@ -1,0 +1,9 @@
+{
+    "name" : "Celestial",
+    "$print" : [
+        "joey",
+        "joey1",
+        "joey2",
+        "joey3"
+    ]
+}
