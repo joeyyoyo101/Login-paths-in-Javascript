@@ -1,0 +1,7 @@
+ใช้รูปแบบ fs เขียนข้อมูลลงในไฟล์ด้วย 
+แล้ว get แสดงผลออกมาจาก file 
+
+1.Create Post Profile
+2.Create View Get Profile 
+3.Create Post Register
+4.Create View Get Users 

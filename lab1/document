@@ -1,0 +1,18 @@
+mkdir new_file
+touch main.js
+npm init -y
+npm install express
+npm install body-parser
+npm install axios
+
+next
+cd ./lab2
+
+back
+cd ..
+
+delete
+rm -rf new_file
+
+list
+ls
