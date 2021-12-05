@@ -30,6 +30,7 @@ export default {
     color:"serria",
     selectColor:null
   }),
+  
   computed: {
     ...mapState(['StateDialog']),
   },
